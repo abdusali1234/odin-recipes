@@ -1,0 +1,20 @@
+/* style.css */ 
+
+body {
+  background-color: rgb(92,75,51);
+  color: rgb(140,190,178);
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+  color: rgb(140,190,178);
+}
+
+a:visited {
+  color: rgb(240, 96, 96);
+}
+
+a:hover {
+  color: rgb(243,181,98);
+}
